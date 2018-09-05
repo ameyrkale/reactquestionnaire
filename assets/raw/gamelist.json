@@ -1,0 +1,532 @@
+{
+	"games":[
+		{
+			"code":"1",
+			"name":"C++",
+			"description":"C++ Quizzes",
+      		"color":"#feec1c",
+			"quizzes":[
+				{
+					"code":"1",
+					"description":"What punctuation ends most lines of C++ code?",
+					"options":[
+						{
+							"code":"1",
+							"description":"."
+						},
+						{
+							"code":"2",
+							"description":";"
+						},
+						{
+							"code":"3",
+							"description":":"
+						},
+						{
+							"code":"4",
+							"description":"-"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":";"
+				},
+				{
+					"code":"2",
+					"description":"Which of the following is the correct operator to compare two variables?",
+					"options":[
+						{
+							"code":"1",
+							"description":":="
+						},
+						{
+							"code":"2",
+							"description":"="
+						},
+						{
+							"code":"3",
+							"description":"equal"
+						},
+						{
+							"code":"4",
+							"description":"=="
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"=="
+				},
+				{
+					"code":"3",
+					"description":"Which of the following is not a correct variable type?",
+					"options":[
+						{
+							"code":"1",
+							"description":"float"
+						},
+						{
+							"code":"2",
+							"description":"real"
+						},
+						{
+							"code":"3",
+							"description":"int"
+						},
+						{
+							"code":"4",
+							"description":"double"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"real"
+				},
+				{
+					"code":"4",
+					"description":"What is the minimum number of times a do loop would definitely get executed?",
+					"options":[
+						{
+							"code":"1",
+							"description":"0"
+						},
+						{
+							"code":"2",
+							"description":"1"
+						},
+						{
+							"code":"3",
+							"description":"Infinity"
+						},
+						{
+							"code":"4",
+							"description":"Could not be predicted"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"1"
+				},
+				{
+					"code":"5",
+					"description":"Which of the following is the proper keyword to allocate memory?",
+					"options":[
+						{
+							"code":"1",
+							"description":"new"
+						},
+						{
+							"code":"2",
+							"description":"malloc"
+						},
+						{
+							"code":"3",
+							"description":"create"
+						},
+						{
+							"code":"4",
+							"description":"Value"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"new"
+				}
+			]
+		},
+		{
+			"code":"2",
+			"name":"PHP",
+			"description":"PHP Related Quiz",
+      		"color":"#1bd0fd",
+			"quizzes":[
+				{
+					"code":"1",
+					"description":"Where is PHP code mostly commonly run?",
+					"options":[
+						{
+							"code":"1",
+							"description":"Within the HTML interpreter"
+						},
+						{
+							"code":"2",
+							"description":"In a database"
+						},
+						{
+							"code":"3",
+							"description":"On a web server"
+						},
+						{
+							"code":"4",
+							"description":"In a web browser"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"On a web server"
+				},
+				{
+					"code":"2",
+					"description":"The PHP syntax is most similar to:",
+					"options":[
+						{
+							"code":"1",
+							"description":"ASP.net"
+						},
+						{
+							"code":"2",
+							"description":"VBScript"
+						},
+						{
+							"code":"3",
+							"description":"Javascript"
+						},
+						{
+							"code":"4",
+							"description":"Perl and C"
+						}
+					],
+					"quiz_option_code":"4",
+					"quiz_answer":"Perl and C"
+				},
+				{
+					"code":"3",
+					"description":"Which PHP array will hold values that are part of the URL's query string?",
+					"options":[
+						{
+							"code":"1",
+							"description":"$_URL"
+						},
+						{
+							"code":"2",
+							"description":"$_FILES"
+						},
+						{
+							"code":"3",
+							"description":"$_GET"
+						},
+						{
+							"code":"4",
+							"description":"$_QUERYSTRING"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"$_GET"
+				}
+			]
+		},
+		{
+			"code":"3",
+			"name":"Swift",
+			"description":"Swift Related Quizzes",
+      		"color":"#ff98d5",
+			"quizzes":[
+				{
+					"code":"1",
+					"description":"How many types of integers are in Swift?",
+					"options":[
+						{
+							"code":"1",
+							"description":"1"
+						},
+						{
+							"code":"2",
+							"description":"2"
+						},
+						{
+							"code":"3",
+							"description":"3"
+						},
+						{
+							"code":"4",
+							"description":"4"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"2"
+				},
+				{
+					"code":"2",
+					"description":"What type of integer is denoted by Int8?",
+					"options":[
+						{
+							"code":"1",
+							"description":"Open"
+						},
+						{
+							"code":"2",
+							"description":"Unsigned"
+						},
+						{
+							"code":"3",
+							"description":"Signed"
+						},
+						{
+							"code":"4",
+							"description":"Close"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Signed"
+				},
+				{
+					"code":"3",
+					"description":"What are the collection types in Swift?",
+					"options":[
+						{
+							"code":"1",
+							"description":"Dictionary and array"
+						},
+						{
+							"code":"2",
+							"description":"Array and library"
+						},
+						{
+							"code":"3",
+							"description":"Dictionary and library"
+						},
+						{
+							"code":"4",
+							"description":"Library, dictionary and array"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Dictionary and array"
+				}
+			]
+		},
+		{
+			"code":"4",
+			"name":"Objective C",
+			"description":"Swift Related Quizzes",
+      		"color":"#feec1c",
+			"quizzes":[
+				{
+					"code":"1",
+					"description":"How many types of integers are in Swift?",
+					"options":[
+						{
+							"code":"1",
+							"description":"1"
+						},
+						{
+							"code":"2",
+							"description":"2"
+						},
+						{
+							"code":"3",
+							"description":"3"
+						},
+						{
+							"code":"4",
+							"description":"4"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"2"
+				},
+				{
+					"code":"2",
+					"description":"What type of integer is denoted by Int8?",
+					"options":[
+						{
+							"code":"1",
+							"description":"Open"
+						},
+						{
+							"code":"2",
+							"description":"Unsigned"
+						},
+						{
+							"code":"3",
+							"description":"Signed"
+						},
+						{
+							"code":"4",
+							"description":"Close"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Signed"
+				},
+				{
+					"code":"3",
+					"description":"What are the collection types in Swift?",
+					"options":[
+						{
+							"code":"1",
+							"description":"Dictionary and array"
+						},
+						{
+							"code":"2",
+							"description":"Array and library"
+						},
+						{
+							"code":"3",
+							"description":"Dictionary and library"
+						},
+						{
+							"code":"4",
+							"description":"Library, dictionary and array"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Dictionary and array"
+				}
+			]
+		},
+		{
+			"code":"5",
+			"name":"Perl",
+			"description":"Swift Related Quizzes",
+      		"color":"#1bd0fd",
+			"quizzes":[
+				{
+					"code":"1",
+					"description":"How many types of integers are in Swift?",
+					"options":[
+						{
+							"code":"1",
+							"description":"1"
+						},
+						{
+							"code":"2",
+							"description":"2"
+						},
+						{
+							"code":"3",
+							"description":"3"
+						},
+						{
+							"code":"4",
+							"description":"4"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"2"
+				},
+				{
+					"code":"2",
+					"description":"What type of integer is denoted by Int8?",
+					"options":[
+						{
+							"code":"1",
+							"description":"Open"
+						},
+						{
+							"code":"2",
+							"description":"Unsigned"
+						},
+						{
+							"code":"3",
+							"description":"Signed"
+						},
+						{
+							"code":"4",
+							"description":"Close"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Signed"
+				},
+				{
+					"code":"3",
+					"description":"What are the collection types in Swift?",
+					"options":[
+						{
+							"code":"1",
+							"description":"Dictionary and array"
+						},
+						{
+							"code":"2",
+							"description":"Array and library"
+						},
+						{
+							"code":"3",
+							"description":"Dictionary and library"
+						},
+						{
+							"code":"4",
+							"description":"Library, dictionary and array"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Dictionary and array"
+				}
+			]
+		},
+{
+			"code":"6",
+			"name":"Java",
+			"description":"Swift Related Quizzes",
+      		"color":"#ff98d5",
+			"quizzes":[
+				{
+					"code":"1",
+					"description":"How many types of integers are in Swift?",
+					"options":[
+						{
+							"code":"1",
+							"description":"1"
+						},
+						{
+							"code":"2",
+							"description":"2"
+						},
+						{
+							"code":"3",
+							"description":"3"
+						},
+						{
+							"code":"4",
+							"description":"4"
+						}
+					],
+					"quiz_option_code":"2",
+					"quiz_answer":"2"
+				},
+				{
+					"code":"2",
+					"description":"What type of integer is denoted by Int8?",
+					"options":[
+						{
+							"code":"1",
+							"description":"Open"
+						},
+						{
+							"code":"2",
+							"description":"Unsigned"
+						},
+						{
+							"code":"3",
+							"description":"Signed"
+						},
+						{
+							"code":"4",
+							"description":"Close"
+						}
+					],
+					"quiz_option_code":"3",
+					"quiz_answer":"Signed"
+				},
+				{
+					"code":"3",
+					"description":"What are the collection types in Swift?",
+					"options":[
+						{
+							"code":"1",
+							"description":"Dictionary and array"
+						},
+						{
+							"code":"2",
+							"description":"Array and library"
+						},
+						{
+							"code":"3",
+							"description":"Dictionary and library"
+						},
+						{
+							"code":"4",
+							"description":"Library, dictionary and array"
+						}
+					],
+					"quiz_option_code":"1",
+					"quiz_answer":"Dictionary and array"
+				}
+			]
+		}
+	]
+}
